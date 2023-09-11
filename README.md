@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# Simple Quotes Generator with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project created for the FreeCodeCamp curriculum, where I built a simple web app that generates random quotes using React. The app allows users to see a new quote by clicking a button, and also provides the option to tweet the current quote.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+To see this project's live demo, please click [here](insert link to live demo).
 
-### `npm start`
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project was built with the following technologies:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React
+- HTML
+- CSS
+- JavaScript
 
-### `npm test`
+## Key Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The main features of this app include:
 
-### `npm run build`
+- Generating random quotes for users to read
+- Allowing users to get a new quote by clicking a button
+- Providing the option to tweet the current quote
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To get a local copy up and running, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+- Node.js
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Setup
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repository
+2. Navigate to the project directory in your terminal
+3. Run `npm install` to install the necessary dependencies
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Run `npm start` to start the development server
+2. Open `http://localhost:3000` in your browser to view the app
 
-## Learn More
+## Authors
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👤 **Lucas Erkana**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- GitHub: [@Lucask-Erkana](https://github.com/Lucask-Erkana)
+- Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
+- LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
+- Frontend Mentor - [@Lucask-Erkana](https://www.frontendmentor.io/profile/Lucask-Erkana)
 
-### Code Splitting
+## Future Improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+In the future, I plan to add more features to this app, such as the ability to save favorite quotes or share them on social media. I also intend to improve the design and layout of the app to make it more visually appealing.
 
-### Analyzing the Bundle Size
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions are always welcome! If you'd like to contribute to this project, please follow these steps:
 
-### Making a Progressive Web App
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature-name`)
+3. Make your changes and commit them (`git commit -am 'Add some feature'`)
+4. Push your changes to your forked repository (`git push origin feature/your-feature-name`)
+5. Open a pull request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Show your support
 
-### Advanced Configuration
+If you find this project useful or interesting, please give it a ⭐️ on GitHub!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Acknowledgments
 
-### Deployment
+Thanks to FreeCodeCamp for providing the curriculum that inspired this project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
