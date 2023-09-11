@@ -1,10 +1,13 @@
 # Simple Quotes Generator with React
 
 This is a project created for the FreeCodeCamp curriculum, where I built a simple web app that generates random quotes using React. The app allows users to see a new quote by clicking a button, and also provides the option to tweet the current quote.
+## App Screenshots
+![image](https://github.com/Lucas-Erkana/random_quotes/assets/41428579/bad57834-e8e2-4704-b40c-3a5062fb3798)
+
 
 ## Live Demo
 
-To see this project's live demo, please click [here](insert link to live demo).
+To see this project's live demo, please click [here](https://random-quotes-swart.vercel.app/).
 
 ## Built With
 
